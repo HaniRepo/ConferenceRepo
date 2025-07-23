@@ -1,0 +1,124 @@
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\bin\Debug\Conference.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\bin\Debug\Conference.exe
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\bin\Debug\Conference.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.Login.resources
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.exe
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.Form_Book.resources
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.PL.Edit.resources
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.SelectedEdit.resources
+c:\users\pc\documents\visual studio 2013\Projects\Conference\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\bin\Debug\Conference.exe.config
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\bin\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\bin\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.PL.Edit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.Form_Book.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.Login.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.SelectedEdit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Conference\Conference\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+E:\Conference\Conference\bin\Debug\Conference.exe.config
+E:\Conference\Conference\obj\Debug\Conference.exe
+E:\Conference\Conference\obj\Debug\Conference.pdb
+E:\Conference\Conference\bin\Debug\Conference.exe
+E:\Conference\Conference\bin\Debug\Conference.pdb
+E:\Conference\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+E:\Conference\Conference\obj\Debug\Conference.PL.Edit.resources
+E:\Conference\Conference\obj\Debug\Conference.Form_Book.resources
+E:\Conference\Conference\obj\Debug\Conference.Login.resources
+E:\Conference\Conference\obj\Debug\Conference.Properties.Resources.resources
+E:\Conference\Conference\obj\Debug\Conference.SelectedEdit.resources
+E:\Conference\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+D:\Hani\Conference Project\festival\Conference\bin\Debug\Conference.exe.config
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.exe
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.pdb
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.PL.Edit.resources
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.Form_Book.resources
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.Login.resources
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.Properties.Resources.resources
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.SelectedEdit.resources
+D:\Hani\Conference Project\festival\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+D:\Hani\Conference Project\festival\Conference\bin\Debug\Conference.exe
+D:\Hani\Conference Project\festival\Conference\bin\Debug\Conference.pdb
+D:\Hani\Conference Project\festival-version 1\Conference\bin\Debug\Conference.exe.config
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.exe
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.pdb
+D:\Hani\Conference Project\festival-version 1\Conference\bin\Debug\Conference.exe
+D:\Hani\Conference Project\festival-version 1\Conference\bin\Debug\Conference.pdb
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.PL.Edit.resources
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.Form_Book.resources
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.Login.resources
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.Properties.Resources.resources
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.SelectedEdit.resources
+D:\Hani\Conference Project\festival-version 1\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\bin\Debug\Conference.exe.config
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.exe
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.pdb
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.PL.Edit.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.Form_Book.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.Login.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.Properties.Resources.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.SelectedEdit.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.PL.SelectPersonForm.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\obj\Debug\Conference.PL.CardReport.resources
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\bin\Debug\Conference.exe
+D:\Hani\Conference Project\New folder\festival-version 1\Conference\bin\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\bin\Debug\Conference.exe.config
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\bin\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\bin\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.PL.CardReport.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.PL.Edit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.Form_Book.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.Login.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.PL.SelectPersonForm.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.SelectedEdit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\RdlCompile.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\Festival-version3\festival-version 2\Conference\obj\Debug\RdlCompile.compiled
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\bin\Debug\Conference.exe.config
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.exe
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.pdb
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.PL.CardReport.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.PL.Edit.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.Form_Book.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.Login.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.PL.SelectPersonForm.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.Properties.Resources.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.SelectedEdit.resources
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\RdlCompile.cache
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\RdlCompile.compiled
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\bin\Debug\Conference.exe
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\bin\Debug\Conference.pdb
+D:\Hani\Conference Project\Festival-version3\festival-version 3\Conference\obj\Debug\Conference.PL.CertificatePreview.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\bin\Debug\Conference.exe.config
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.pdb
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.csprojResolveAssemblyReference.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.PL.CardReport.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.PL.CertificatePreview.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.PL.Edit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.Form_Book.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.Login.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.PL.SelectPersonForm.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.Properties.Resources.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.SelectedEdit.resources
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\Conference.csproj.GenerateResource.Cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\RdlCompile.cache
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\obj\Debug\RdlCompile.compiled
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\bin\Debug\Conference.exe
+C:\Users\aboozarmofid\Documents\Visual Studio 2013\Projects\ASLI\festival-version 3\Conference\bin\Debug\Conference.pdb

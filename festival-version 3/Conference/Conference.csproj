@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F9A9652-74D9-4D39-8882-D4CDFCC0AEED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Conference</RootNamespace>
+    <AssemblyName>Conference</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\BL_ConferenceHall.cs" />
+    <Compile Include="BL\BL_Gift.cs" />
+    <Compile Include="BL\BL_Grade.cs" />
+    <Compile Include="BL\BL_Lunch.cs" />
+    <Compile Include="BL\BL_Major.cs" />
+    <Compile Include="BL\BL_person.cs" />
+    <Compile Include="BL\BL_title.cs" />
+    <Compile Include="BL\BL_User.cs" />
+    <Compile Include="DAL\DAL_ConferenceHall.cs" />
+    <Compile Include="DAL\DAL_Gift.cs" />
+    <Compile Include="DAL\DAL_Grade.cs" />
+    <Compile Include="DAL\DAL_lunch.cs" />
+    <Compile Include="DAL\DAL_Major.cs" />
+    <Compile Include="DAL\DAL_title.cs" />
+    <Compile Include="DAL\DAL_user.cs" />
+    <Compile Include="DAL\Person.cs" />
+    <Compile Include="PL\CardReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\CardReport.Designer.cs">
+      <DependentUpon>CardReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\CertificatePreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\CertificatePreview.Designer.cs">
+      <DependentUpon>CertificatePreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Form_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Form_Book.Designer.cs">
+      <DependentUpon>Form_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\SelectPersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\SelectPersonForm.Designer.cs">
+      <DependentUpon>SelectPersonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PL\SelectedEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\SelectedEdit.Designer.cs">
+      <DependentUpon>SelectedEdit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PL\CardReport.resx">
+      <DependentUpon>CardReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\CertificatePreview.resx">
+      <DependentUpon>CertificatePreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Form_Book.resx">
+      <DependentUpon>Form_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\SelectPersonForm.resx">
+      <DependentUpon>SelectPersonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\SelectedEdit.resx">
+      <DependentUpon>SelectedEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CardReport.rdlc" />
+    <EmbeddedResource Include="Report\CertificateReport.rdlc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Enter.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Conference.ico" />
+    <None Include="Resources\Conference1.ico" />
+    <Content Include="Resources\Lunch.ico" />
+    <Content Include="Resources\PrintCard.ico" />
+    <None Include="Resources\Refresh.ico" />
+    <None Include="Resources\Lunch1.ico" />
+    <None Include="Resources\Lunch.png" />
+    <None Include="Resources\Done.ico" />
+    <None Include="Resources\Select.ico" />
+    <None Include="Resources\Search.ico" />
+    <None Include="Resources\Edit.ico" />
+    <None Include="Resources\Insert.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
