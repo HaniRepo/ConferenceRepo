@@ -9,7 +9,7 @@ The system provides functionality to register attendees, track their participati
 
 ## 📌 Features by Tabs
 
-### ✅ **Tab 1 – Register Attendee**
+###  **Tab 1 – Register Attendee**
 Used to register a conference attendee.  
 Information collected includes:
 - First Name
@@ -20,7 +20,7 @@ Information collected includes:
 
 ---
 
-### ✅ **Tab 2 – Attendance Tracking**
+###  **Tab 2 – Attendance Tracking**
 Stores the times each attendee is present in conference halls.  
 This allows the system to:
 - Record entry and exit times
@@ -29,20 +29,20 @@ This allows the system to:
 
 ---
 
-### ✅ **Tab 3 – Gift Management**
+###  **Tab 3 – Gift Management**
 Checks whether each attendee has received their gift (e.g., conference bag or welcome package).  
 - Ensures that each attendee only receives **one gift**.
 
 ---
 
-### ✅ **Tab 4 – Lunch Verification**
+###  **Tab 4 – Lunch Verification**
 Verifies if each attendee has claimed their lunch.  
 - Prevents duplicate lunch claims
 - Tracks lunch distribution per day/session
 
 ---
 
-### ✅ **Tab 5 – Print Certificates & Cards**
+###  **Tab 5 – Print Certificates & Cards**
 Generates and prints:
 - **Certificate of Attendance**
 - **Certificate of Speaker** (if the attendee presented a talk)
@@ -53,7 +53,7 @@ All documents are generated dynamically based on the attendee’s information an
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🛠 **Technology Stack**
 - **Frontend:** ASP.NET MVC (Views, Razor)
 - **Backend:** C# (Controllers, Models)
 - **Database:** SQL Server
@@ -61,7 +61,7 @@ All documents are generated dynamically based on the attendee’s information an
 
 ---
 
-## 🚀 **How to Run**
+##  **How to Run**
 1. Clone this repository.
 2. Open the solution in **Visual Studio**.
 3. Configure the **SQL Server connection string** in `web.config` or `appsettings.json`.
@@ -70,7 +70,7 @@ All documents are generated dynamically based on the attendee’s information an
 
 ---
 
-## ✨ **Usage**
+##  **Usage**
 - Navigate through the tabs in the application to access the different functionalities described above.
 - Admins can register new attendees, track their participation, and print necessary documents directly from the system interface.
 
