@@ -7,7 +7,7 @@ The system provides functionality to register attendees, track their participati
 
 ---
 
-## 📌 Features by Tabs
+##  Features by Tabs
 
 ###  **Tab 1 – Register Attendee**
 Used to register a conference attendee.  
